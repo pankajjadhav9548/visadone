@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/visadone/static/css/main.f514776c.css",
-    "main.js": "/visadone/static/js/main.f70a510d.js",
-    "static/js/787.28cb0dcd.chunk.js": "/visadone/static/js/787.28cb0dcd.chunk.js",
-    "static/media/banner-pattern.png": "/visadone/static/media/banner-pattern.f0e98bb488154f71f205.png",
-    "static/media/slider-pattern.png": "/visadone/static/media/slider-pattern.0d2d0f3e54e3e5f230b4.png",
-    "index.html": "/visadone/index.html",
-    "main.f514776c.css.map": "/visadone/static/css/main.f514776c.css.map",
-    "main.f70a510d.js.map": "/visadone/static/js/main.f70a510d.js.map",
-    "787.28cb0dcd.chunk.js.map": "/visadone/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/static/css/main.0b45d621.css",
+    "main.js": "/static/js/main.036041c1.js",
+    "static/js/787.221e744b.chunk.js": "/static/js/787.221e744b.chunk.js",
+    "static/media/banner-pattern.png": "/static/media/banner-pattern.f0e98bb488154f71f205.png",
+    "static/media/slider-pattern.png": "/static/media/slider-pattern.0d2d0f3e54e3e5f230b4.png",
+    "index.html": "/index.html",
+    "main.0b45d621.css.map": "/static/css/main.0b45d621.css.map",
+    "main.036041c1.js.map": "/static/js/main.036041c1.js.map",
+    "787.221e744b.chunk.js.map": "/static/js/787.221e744b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f514776c.css",
-    "static/js/main.f70a510d.js"
+    "static/css/main.0b45d621.css",
+    "static/js/main.036041c1.js"
   ]
 }
